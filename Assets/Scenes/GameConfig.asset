@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 075e78e1b5fef4c429c66457aa781a90, type: 3}
   m_Name: GameConfig
   m_EditorClassIdentifier: 
-  playerHP: 0
-  playerSpeed: 0
-  maxLevel: 0
+  playerHP: 100
+  playerSpeed: 5
+  maxLevel: 10
